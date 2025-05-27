@@ -5,7 +5,7 @@ from transformers import BlipProcessor, BlipForConditionalGeneration
 import google.generativeai as genai  # Importing Gemini AI API
 
 # Set up Gemini API key (replace with your own Gemini API key)
-genai.configure(api_key="AIzaSyDRd1VYdtvM1PA2KmU5DyFQLFEa95piRD8")
+genai.configure(api_key="###########################")
 
 def load_model():
     """
