@@ -38,6 +38,41 @@ An AI-powered web application that transforms your uploaded images into meaningf
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/image-story-generator.git
+git clone https://github.com/neha04lokhande/image-story-generator.git
 cd image-story-generator
+
+
+Install Dependencies
+
+Make sure Python 3.7+ is installed. Then install the required libraries:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Set Gemini API Key
+
+Replace the placeholder API key in the code:
+
+python
+Copy
+Edit
+genai.configure(api_key="YOUR_GEMINI_API_KEY")
+You can get an API key from Google AI Studio.
+
+Run the App
+
+bash
+Copy
+Edit
+streamlit run app.py
+
+📁 Project Structure
+bash
+Copy
+Edit
+.
+├── app.py                # Main application script
+├── requirements.txt      # List of dependencies
+├── README.md             # Project overview and instructions
 
