@@ -1,9 +1,10 @@
-# Image_Story_Generator
- ◦ Developed a web-based application that transforms images into stories by integrating computer vision, NLP.  ◦ Implemented the BLIP model to generate captions from images Utilized Gemini to craft narratives  ◦ Tech Stack: Python, PyTorch, Hugging Face Transformers, Google Generative AI (Gemini), Streamlit
-
 # 🖼️ Image Story Generator
+ ◦ Developed a web-based application that transforms images into stories by integrating computer vision, NLP.
+ ◦ Implemented the BLIP model to generate captions from images Utilized Gemini to craft narratives 
+ ◦ Tech Stack: Python, PyTorch, Hugging Face Transformers, Google Generative AI (Gemini), Streamlit
 
-An AI-powered web application that transforms your uploaded images into meaningful and creative short stories using advanced machine learning models like BLIP and Google's Gemini AI.
+
+
 
 ## 🚀 Features
 
