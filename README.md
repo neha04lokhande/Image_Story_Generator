@@ -76,7 +76,6 @@ Edit
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── images/          # Contains screenshots of UI and output
-│   ├── output_1.png
-│   ├── output_2.pngns
+├── output_1.png
+├── output_2.pngns
 
