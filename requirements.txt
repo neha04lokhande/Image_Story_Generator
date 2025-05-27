@@ -1,0 +1,10 @@
+Make sure the following packages are installed (listed in requirements.txt):
+
+txt
+Copy
+Edit
+streamlit
+torch
+transformers
+Pillow
+google-generativeai
