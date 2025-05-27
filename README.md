@@ -73,7 +73,10 @@ bash
 Copy
 Edit
 .
-├── app.py                # Main application script
-├── requirements.txt      # List of dependencies
-├── README.md             # Project overview and instructions
+├── app.py
+├── requirements.txt
+├── README.md
+├── images/          # Contains screenshots of UI and output
+│   ├── output_1.png
+│   ├── output_2.pngns
 
